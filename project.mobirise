@@ -781,10 +781,11 @@
               "color": "#232323"
             },
             "P": {
-              "color": "#232323"
+              "color": "#073b4c"
             },
             "H2": {
-              "text-align": "right"
+              "text-align": "right",
+              "color": "#0a397e"
             }
           },
           "_name": "slider1",
@@ -815,7 +816,7 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-7",
                 "customStyle3": "display-4",
-                "title": "<i>Tarjetas de Visita</i>",
+                "title": "Tarjetas de Visita",
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "<b>La herramienta imprescindible para comunicarte&nbsp;<br>Le damos una vuelta de tuerca para que tu carta de presentación sea ÚNICA y SORPRENDENTE</b>",
