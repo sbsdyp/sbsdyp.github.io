@@ -762,7 +762,7 @@
               "text-align": "right"
             },
             "H2": {
-              "text-align": "right",
+              "text-align": "left",
               "color": "#0a397e"
             }
           },
